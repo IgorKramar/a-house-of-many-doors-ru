@@ -1,0 +1,97 @@
+{
+  "status": "full_translation_in_progress",
+  "full_translation_complete": false,
+  "full_editorial_review_complete": false,
+  "game_version": "2.3",
+  "steam_app_id": 437250,
+  "translation_entries_including_generated_variants": 13723,
+  "source_words_in_dictionary_including_repeated_variants": 218358,
+  "fonts_with_cyrillic": 49,
+  "main_menu_title_ru": "Дом многих дверей",
+  "runtime_visual_verification_deferred_by_user": true,
+  "last_binary_validation": {
+    "original_strings_preserved": 61749,
+    "fonts_checked": 49,
+    "translated_characters_checked": 154,
+    "calls_checked": 164008,
+    "corrected_character_headings": 2,
+    "native_ui_labels_checked": true,
+    "all_checks_passed": true
+  },
+  "interface_static_coverage": {
+    "journal_source_calls": 75,
+    "journal_variants": 421,
+    "save_label_variants": 696,
+    "sprite_families": 13,
+    "native_labels": 56
+  },
+  "banjo_events_static_coverage": {
+    "source_files": 8,
+    "unique_visible_expressions": 418,
+    "dynamic_expressions": 7,
+    "forms_of_address": 12,
+    "headings_checked": 84,
+    "checked_variants": 488,
+    "invalid_counts_rejected": 4,
+    "composed_fragment_ids": [
+      118,
+      119,
+      121,
+      122,
+      128,
+      129,
+      148,
+      149,
+      161,
+      162,
+      176
+    ]
+  },
+  "penpusher_events_static_coverage": {
+    "source_files": 3,
+    "unique_visible_expressions": 71,
+    "headings_checked": 14
+  },
+  "judith_events_static_coverage": {
+    "source_files": 2,
+    "unique_visible_expressions": 57,
+    "checked_variants": 62,
+    "dynamic_expressions": 1,
+    "invalid_counts_rejected": 4,
+    "headings_checked": 20
+  },
+  "tybalt_events_static_coverage": {
+    "source_files": 3,
+    "unique_visible_expressions": 225,
+    "checked_variants": 290,
+    "dynamic_expressions": 6,
+    "custom_names": 6,
+    "possessive_pronouns": [
+      "her",
+      "its",
+      "his"
+    ],
+    "headings_checked": 43
+  },
+  "violante_events_static_coverage": {
+    "source_files": 4,
+    "unique_visible_expressions": 28,
+    "checked_variants": 31,
+    "dynamic_expressions": 1,
+    "headings_checked": 8
+  },
+  "documented_on": "2026-10-31",
+  "last_verified_local_build": "2026-10-15",
+  "public_installable_release": false,
+  "clean_clone_build_verified": false,
+  "coverage_estimate": {
+    "percent": 35.41,
+    "translated_candidate_words": 201401,
+    "total_candidate_words": 568773,
+    "minimum_english_words_per_fragment": 3,
+    "exact_repeats_removed": true,
+    "limitations": "Heuristic source-fragment coverage; includes translated fragments and templates. Not release readiness or complete scenario coverage."
+  },
+  "original_data_sha256": "DBC01DCF416E6002298531C1A0E707BD3FF64F0AFA70BBA1EAB6F527709F0160",
+  "cormorant_font_sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+}

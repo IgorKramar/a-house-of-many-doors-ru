@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">Дом многих дверей</title><desc id="desc">Литературная русская локализация. В работе.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b20"/><stop offset="1" stop-color="#26332e"/></linearGradient><linearGradient id="light"><stop stop-color="#e0bf80" stop-opacity=".65"/><stop offset="1" stop-color="#e0bf80" stop-opacity="0"/></linearGradient></defs>
+<rect width="1280" height="480" fill="url(#bg)"/><rect x="22" y="22" width="1236" height="436" rx="2" fill="none" stroke="#b79b66" stroke-opacity=".45"/>
+<g fill="none" stroke="#c2aa7c" stroke-width="2" opacity=".55"><path d="M927 376V133a94 94 0 0 1 188 0v243M952 376V138a69 69 0 0 1 138 0v238M979 376V145a42 42 0 0 1 84 0v231"/><path d="M894 378h254M910 392h221M928 407h184"/></g>
+<path d="M1020 376V145a42 42 0 0 1 42 0v231z" fill="url(#light)" opacity=".6"/><circle cx="1051" cy="259" r="4" fill="#dfc48e"/>
+<text x="78" y="94" fill="#b8aa8d" font-family="Georgia,serif" font-size="17" letter-spacing="4">A HOUSE OF MANY DOORS · RU</text>
+<text x="72" y="214" fill="#efe8d7" font-family="Georgia,serif" font-size="96">ДОМ</text><text x="337" y="213" fill="#efe8d7" font-family="Georgia,serif" font-size="43">МНОГИХ</text>
+<text x="72" y="318" fill="#efe8d7" font-family="Georgia,serif" font-size="96" letter-spacing="3">ДВЕРЕЙ</text>
+<path d="M80 350h650" stroke="#b79b66" stroke-opacity=".6"/>
+<text x="80" y="391" fill="#c3c8bd" font-family="Georgia,serif" font-size="23">Литературная русская локализация</text>
+<text x="80" y="426" fill="#b8aa8d" font-family="Georgia,serif" font-size="16" letter-spacing="2">СЮЖЕТ · ИНТЕРФЕЙС · КИРИЛЛИЦА</text>
+</svg>

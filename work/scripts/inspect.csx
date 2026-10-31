@@ -1,0 +1,11 @@
+using System;
+using System.IO;
+using System.Linq;
+using Newtonsoft.Json;
+using UndertaleModLib.Util;
+var dir = Path.Combine(Directory.GetCurrentDirectory(),"work","source");
+File.WriteAllText(Path.Combine(dir,"fonts.json"), JsonConvert.SerializeObject(Data.Fonts.Select(f => new { name=f.Name.Content, display=f.DisplayName.Content, size=f.EmSize, f.Bold, f.Italic, f.RangeStart, f.RangeEnd, f.ScaleX, f.ScaleY, glyphs=f.Glyphs.Select(g=>new {g.Character,g.SourceX,g.SourceY,g.SourceWidth,g.SourceHeight,g.Shift,g.Offset}), texture=new {f.Texture.SourceWidth,f.Texture.SourceHeight}}),Formatting.Indented));
+File.WriteAllText(Path.Combine(dir,"resources.json"), JsonConvert.SerializeObject(new { objects=Data.GameObjects.Select(o=>o.Name.Content), code=Data.Code.Select(c=>c.Name.Content), scripts=Data.Scripts.Select(s=>s.Name.Content)},Formatting.Indented));
+Directory.CreateDirectory(Path.Combine(dir,"font_textures"));
+using(var worker=new TextureWorker()) foreach(var f in Data.Fonts) worker.ExportAsPNG(f.Texture,Path.Combine(dir,"font_textures",f.Name.Content+".png"));
+Console.WriteLine("Exported "+Data.Fonts.Count+" fonts and resource names");

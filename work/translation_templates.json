@@ -1,0 +1,412 @@
+[
+  {
+    "prefix": "\"",
+    "suffix": ".\" He coughs.",
+    "ru_prefix": "«",
+    "ru_suffix": "». Он кашляет."
+  },
+  {
+    "prefix": "Shout for ",
+    "suffix": ".",
+    "ru_prefix": "Позвать на помощь: ",
+    "ru_suffix": ".",
+    "translate_value": true
+  },
+  {
+    "prefix": "[Requires x1 Bottled Darkness. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна тьма в бутылке ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Penny Dreadful. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен грошовый ужастик ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Meandering Treatise. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен пространный трактат ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Zoological Specimen (Alive). You currently have x",
+    "suffix": ".",
+    "ru_prefix": "[Нужен живой зоологический образец ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Empty Memory-box. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна пустая шкатулка для воспоминаний ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Dreamsalve. You currently have x",
+    "suffix": " Dreamsalve.]",
+    "ru_prefix": "[Нужна сонная мазь ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "",
+    "suffix": " shrugs. \"This is beyond my experience. I recommend you visit Dr. Grindylow in the City of Keys - he specializes in curses and maladies and afflictions of the occult.\"",
+    "ru_prefix": "",
+    "ru_suffix": " пожимает плечами. «Такое мне ещё не встречалось. Советую обратиться к доктору Гриндилоу в Городе Ключей. Он как раз занимается проклятиями, болезнями и недугами оккультного свойства».",
+    "translate_value": true
+  },
+  {
+    "prefix": "",
+    "suffix": " proves phenomenally adept at cutting vegetables.Jack is running back and forth excitedly, doing very little except making a mess.",
+    "ru_prefix": "",
+    "ru_suffix": " нарезает овощи с поразительным искусством. Джек возбуждённо носится туда-сюда, не столько помогая, сколько устраивая беспорядок.",
+    "translate_value": true
+  },
+  {
+    "prefix": "",
+    "suffix": " proves phenomenally adept at cutting vegetables.",
+    "ru_prefix": "",
+    "ru_suffix": " нарезает овощи с поразительным искусством.",
+    "translate_value": true
+  },
+  {
+    "prefix": "",
+    "suffix": " watches proceedings with an air of profound skepticism.",
+    "ru_prefix": "",
+    "ru_suffix": " следит за происходящим с глубочайшим скепсисом.",
+    "translate_value": true
+  },
+  {
+    "prefix": "[Requires x1 Bloodsoaked Monolith. You currently have x",
+    "suffix": ".",
+    "ru_prefix": "[Нужен окровавленный монолит ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Volume of Poetry. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен сборник стихов ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Lurid Tale.. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна кровавая история ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Bloodsoaked Monolith. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен окровавленный монолит ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "He staggers away, pausing only to vomit messily on ",
+    "suffix": ".",
+    "ru_prefix": "Он уходит, пошатываясь. По пути ему попадается ",
+    "ru_suffix": " — и попадает под струю рвоты.",
+    "translate_value": true
+  },
+  {
+    "prefix": "",
+    "suffix": " puts Cromlech up on her table and examines him carefully. \"What are your symptoms?\" she asks.",
+    "ru_prefix": "",
+    "ru_suffix": " укладывает Кромлеха на стол и внимательно осматривает. «Какие у вас симптомы?»",
+    "translate_value": true
+  },
+  {
+    "prefix": "",
+    "suffix": " puts Cromlech up on his table and examines him carefully. \"What are your symptoms?\" he asks.",
+    "ru_prefix": "",
+    "ru_suffix": " укладывает Кромлеха на стол и внимательно осматривает. «Какие у вас симптомы?»",
+    "translate_value": true
+  },
+  {
+    "prefix": "[Requires x1 Occult Relic. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна оккультная реликвия ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x3 Hazard-Coffee. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен убойный кофе ×3. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Glimpse of Another World. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен проблеск иного мира ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Calaram Rum. You currently have ",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен каларамский ром ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Costs x1 Glimpse of Another World. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Будет потрачено: Проблеск иного мира ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Costs x1 Colour-Dust. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Будет потрачено: Цветная пыль ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Laudanum.. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен лауданум ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Laudanum. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен лауданум ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Costs x1 Laudanum. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Будет потрачено: Лауданум ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x3 Ancient Grimoires. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужны древние гримуары ×3. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "\"",
+    "suffix": " will do it!\" calls Judith, pushing you forward.",
+    "ru_prefix": "«",
+    "ru_suffix": " сыграет!» — восклицает Джудит, выталкивая вас вперёд."
+  },
+  {
+    "prefix": "[Requires x1 Radical Pamphlet. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна радикальная листовка ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Human Prisoner. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен пленный человек ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "\"",
+    "suffix": " - how could you do this?\" Nicholas pleads as two Threaded guards haul him from your kinetopede. For a moment he breaks free - then whip-strands of Thread lash out and carry him back to his captors, who bundle him through an open side-door.",
+    "ru_prefix": "«",
+    "ru_suffix": ", как вы могли?» — взывает Николас, пока двое приобщённых к Нити стражей волокут его с кинетопода. На миг ему удаётся вырваться — но Нить хлещет плетьми, возвращает его в руки стражей, и те заталкивают его в открытую боковую дверь."
+  },
+  {
+    "prefix": "[Requires x1 Sleepless Wretch. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен бессонный страдалец ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Gunpowder. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен порох ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Hazard-Coffee. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен убойный кофе ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x7 Glimpses of Another World. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужно: «Проблеск иного мира» ×7. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x3 Gunpowder. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужно 3 порции пороха. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Dreamsalve. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна сонная мазь ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x3 Gunpowder and x1 Weapon: God-Harpoon. You currently have x",
+    "suffix": " Gunpowder.]",
+    "ru_prefix": "[Нужны: порох ×3 и гарпун для богов ×1. Пороха у вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[This will cost you ",
+    "suffix": " guineas.]",
+    "ru_prefix": "[Стоимость в гинеях: ",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "Lost ",
+    "suffix": " G!",
+    "ru_prefix": "Потрачено гиней: ",
+    "ru_suffix": "!",
+    "numeric": true
+  },
+  {
+    "prefix": "Visit the ",
+    "suffix": " Memorial Museum of Unnatural Curiosity.",
+    "ru_prefix": "Посетить Мемориальный музей неестественных диковин имени ",
+    "ru_suffix": "."
+  },
+  {
+    "prefix": "[Requires x1 Dread Machinations. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужно: зловещие замыслы ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Box of Redacted Memories. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужна шкатулка изъятых воспоминаний ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Warding Iron. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужно защитное железо ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "'Dearest ",
+    "suffix": ",",
+    "ru_prefix": "С сердечным приветом, ",
+    "ru_suffix": "!"
+  },
+  {
+    "prefix": "Gained x",
+    "suffix": " Apprehensions.",
+    "ru_prefix": "Получено прозрений: ",
+    "ru_suffix": ".",
+    "numeric": true
+  },
+  {
+    "prefix": "New location visited. ",
+    "suffix": "",
+    "ru_prefix": "Новое место. ",
+    "ru_suffix": "",
+    "translate_value": true
+  },
+  {
+    "prefix": "You lose ",
+    "suffix": " G.",
+    "ru_prefix": "Потеряно гиней: ",
+    "ru_suffix": ".",
+    "numeric": true
+  },
+  {
+    "prefix": "\"",
+    "suffix": ",\" she says coolly. \"Please. Sit.\"",
+    "ru_prefix": "«",
+    "ru_suffix": ", — холодно говорит она. — Прошу. Садитесь»."
+  },
+  {
+    "prefix": "\"To assassinate the Saltcove Queen.\" Penpusher shakes his head. \"I can't believe I trusted him. You may have saved me from a dark path, ",
+    "suffix": ".\"",
+    "ru_prefix": "«Убить Королеву Соляной Бухты». Бумагомаратель качает головой. «Не верится, что я ему доверял. Возможно, вы уберегли меня от тёмного пути, ",
+    "ru_suffix": "»."
+  },
+  {
+    "prefix": "\"",
+    "suffix": "! It is so good to see you! Let me just finish with this customer -\" He whirls around a bemused patron, scissors blurring, giving him the haircut of a lifetime.",
+    "ru_prefix": "«",
+    "ru_suffix": "! Как же я рад вас видеть! Только закончу с этим посетителем...» Он вихрем кружит вокруг недоумевающего клиента; ножницы мелькают, даря тому лучшую стрижку в жизни."
+  },
+  {
+    "prefix": "He seats himself opposite. \"Greetings, Ashen,\" he says. \"",
+    "suffix": ".\"",
+    "ru_prefix": "Он садится напротив. «Приветствую, Пепельная, — говорит он. — ",
+    "ru_suffix": "»."
+  },
+  {
+    "prefix": "With a smile, Dr Delgado passes it to you. \"We could never have done this without you, ",
+    "suffix": ".\"",
+    "ru_prefix": "С улыбкой доктор Дельгадо передаёт её вам. «Без вас мы бы ни за что не справились, ",
+    "ru_suffix": "»."
+  },
+  {
+    "prefix": "",
+    "suffix": " frowns. \"I don't follow.\"",
+    "ru_prefix": "",
+    "ru_suffix": " хмурится. «Непонятно».",
+    "translate_value": true
+  },
+  {
+    "prefix": "[Requires x1 Flare. You currently have x",
+    "suffix": " Flares.]",
+    "ru_prefix": "[Требуется: Осветительная ракета ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Flare. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Требуется: Осветительная ракета ×1. У вас: ×",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x1 Portentous Dream. You currently have ",
+    "suffix": ".]",
+    "ru_prefix": "[Нужен Вещий сон ×1. Сейчас у вас: ",
+    "ru_suffix": ".]",
+    "numeric": true
+  },
+  {
+    "prefix": "[Requires x3 Terrible Secrets. You currently have x",
+    "suffix": ".]",
+    "ru_prefix": "[Нужны Страшные тайны ×3. Сейчас у вас: ",
+    "ru_suffix": ".]",
+    "numeric": true
+  }
+]

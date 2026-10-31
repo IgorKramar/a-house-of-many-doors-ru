@@ -1,0 +1,25 @@
+# Private inputs and generated game content
+/work/original/
+/work/source/
+/work/build/
+/work/tools/
+/work/fonts/
+/work/translation_drafts/
+data.win
+*.win
+*.droid
+*.ios
+*.unx
+*.exe
+*.dll
+*.ttf
+*.otf
+*.zip
+*.7z
+*.tar.gz
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example

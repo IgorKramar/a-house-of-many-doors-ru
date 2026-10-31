@@ -1,0 +1,134 @@
+[
+  {
+    "parts": [
+      "[Requires x1 Zoological Specimen (Alive), x1 Medicinal Herbs, x1 Chillstone, and x1 Warding Iron. You currently have x",
+      " Specimens, ",
+      " Herbs, ",
+      " Chillstone, and ",
+      " Warding Iron."
+    ],
+    "ru_parts": [
+      "[Нужны: живой зоологический образец ×1, лекарственные травы ×1, студёный камень ×1, защитное железо ×1. У вас: образцы ×",
+      "; травы ×",
+      "; студёные камни ×",
+      "; защитное железо ×",
+      ".]"
+    ],
+    "numeric": true
+  },
+  {
+    "parts": [
+      "[Requires x3 Oscillating Prisms and x1 Arcane Codex. You currently have x",
+      " Prisms and x",
+      " Codices."
+    ],
+    "ru_parts": [
+      "[Нужны колеблющиеся призмы ×3 и тайный кодекс ×1. У вас: призмы ×",
+      "; кодексы ×",
+      ".]"
+    ],
+    "numeric": true
+  },
+  {
+    "parts": [
+      "",
+      " and ",
+      " work together baking a cake for dessert. ",
+      " is working with Otto to cook the turkey, while ",
+      " keeps track of time."
+    ],
+    "ru_parts": [
+      "",
+      " и ",
+      " вместе пекут торт на десерт. ",
+      " помогает Отто запекать индейку, а ",
+      " следит за временем."
+    ],
+    "translate_values": true
+  },
+  {
+    "parts": [
+      "",
+      " proves phenomenally adept at cutting vegetables.",
+      " is laying out the table and arranging seating."
+    ],
+    "ru_parts": [
+      "",
+      " нарезает овощи с поразительным искусством. ",
+      " накрывает на стол и расставляет стулья."
+    ],
+    "translate_values": true
+  },
+  {
+    "parts": [
+      "[Requires x1 Bottled Darkness, x1 Zoological Specimen (Alive), x3 Gallows Candles and x1 Bloodsoaked Monolith. You currently have x",
+      " Bottled Darkness, x",
+      " Specimens, x",
+      " Candles and x",
+      " Monoliths.]"
+    ],
+    "ru_parts": [
+      "[Нужно: тьма в бутылке ×1, живой зоологический образец ×1, висельная свеча ×3, окровавленный монолит ×1. У вас: тьма ×",
+      "; образцы ×",
+      "; свечи ×",
+      "; монолиты ×",
+      ".]"
+    ],
+    "numeric": true
+  },
+  {
+    "parts": [
+      "[This requires x1 Portentous Dream or x1 Unique Experience. You currently have x",
+      " Portentous Dreams and x",
+      " Unique Experiences.]"
+    ],
+    "ru_parts": [
+      "[Нужен вещий сон ×1 или неповторимый опыт ×1. У вас: вещие сны ×",
+      "; неповторимый опыт ×",
+      ".]"
+    ],
+    "numeric": true
+  },
+  {
+    "parts": [
+      "[You currently have x",
+      " in Cargo and x",
+      " in Storage.]"
+    ],
+    "ru_parts": [
+      "[В грузе: ×",
+      "; на складе: ×",
+      ".]"
+    ],
+    "numeric": true
+  },
+  {
+    "parts": [
+      "[Requires x3 Sacks of Salt, x1 Warding Iron and x1 Occult Relic. You currently have x",
+      " Salt, x",
+      " Relics and x",
+      " Warding Iron.]"
+    ],
+    "ru_parts": [
+      "[Требуется: Мешок соли ×3, Защитное железо ×1, Оккультная реликвия ×1. У вас: соль ×",
+      ", реликвии ×",
+      ", защитное железо ×",
+      ".]"
+    ],
+    "numeric": true
+  },
+  {
+    "parts": [
+      "\"The Ten-a-Penny Man offered ",
+      " a deal, and as far as he knows, ",
+      " could have fulfilled it by now,\" explains Char. \"So ",
+      " pretends to have double-crossed me, and gets close to the tallow-faced bastard. Then - smack! Kicks him into a volcano or something.\""
+    ],
+    "ru_parts": [
+      "«Грошовый Человек предложил сделку. Исполнитель — ",
+      ". Он вполне может считать, что дело уже сделано: ",
+      " ведь времени даром не теряет, — объясняет Чар. — Так что ",
+      " притворится, будто предаёт меня, и подберётся к сальномордому ублюдку. А потом — бац! Пинком его в вулкан или ещё куда»."
+    ]
+  }
+]

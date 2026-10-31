@@ -1,0 +1,23 @@
+name: Ошибка перевода
+description: Неточная реплика, термин или проблема вёрстки
+title: "[Перевод] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Версия игры и ревизия перевода
+    validations:
+      required: true
+  - type: input
+    id: scene
+    attributes:
+      label: Локация, персонаж или идентификатор сцены
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что нужно исправить
+      description: Опишите проблему и предложите формулировку. Не прикладывайте игровые архивы или сохранения.
+    validations:
+      required: true
